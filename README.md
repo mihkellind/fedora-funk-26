@@ -1,6 +1,6 @@
 # fedora-funk-26
 
-
+```
 $ sudo dnf install nodejs
 Last metadata expiration check: 0:01:36 ago on Sun 15 Oct 2017 11:46:11 AM EEST.
 Dependencies resolved.
@@ -47,3 +47,4 @@ Installed:
   libuv.x86_64 1:1.11.0-1.fc26    
 
 Complete!
+```
