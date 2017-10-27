@@ -1,0 +1,11 @@
+
+1. Install XAMPP
+2. Run installer
+3. 
+    sudo chown -R username:username /opt/lampp/htdocs  
+4.
+    sudo gedit /opt/lampp/etc/httpd.conf
+    
+--->
+    User nobody
+    Group nogroup
