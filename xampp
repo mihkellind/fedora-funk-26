@@ -6,6 +6,6 @@
 4.
     sudo gedit /opt/lampp/etc/httpd.conf
     
---->
-    User nobody
-    Group nogroup
+---> 
+    User [username]
+    Group daemon
